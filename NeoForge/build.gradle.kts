@@ -3,9 +3,9 @@ plugins {
 }
 
 dependencies {
-    modCompileOnly(libs.puzzleslib.common)
-    modApi(libs.puzzleslib.neoforge)
-    modCompileOnly(libs.hotbarslotcycling.common)
-    modApi(libs.hotbarslotcycling.neoforge)
-    include(libs.hotbarslotcycling.neoforge)
+    modCompileOnly(sharedLibs.puzzleslib.common)
+    modApi(sharedLibs.puzzleslib.neoforge)
+    modCompileOnly(sharedLibs.hotbarslotcycling.common)
+    modApi(sharedLibs.hotbarslotcycling.neoforge)
+    include(sharedLibs.hotbarslotcycling.neoforge)
 }

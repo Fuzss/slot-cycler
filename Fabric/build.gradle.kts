@@ -3,8 +3,8 @@ plugins {
 }
 
 dependencies {
-    modApi(libs.fabricapi.fabric)
-    modApi(libs.puzzleslib.fabric)
-    modApi(libs.hotbarslotcycling.fabric)
-    include(libs.hotbarslotcycling.fabric)
+    modApi(sharedLibs.fabricapi.fabric)
+    modApi(sharedLibs.puzzleslib.fabric)
+    modApi(sharedLibs.hotbarslotcycling.fabric)
+    include(sharedLibs.hotbarslotcycling.fabric)
 }
