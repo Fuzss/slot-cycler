@@ -1,8 +1,8 @@
 package fuzs.slotcycler.fabric.client;
 
-import fuzs.puzzleslib.api.client.core.v1.ClientModConstructor;
-import fuzs.slotcycler.SlotCycler;
-import fuzs.slotcycler.client.SlotCyclerClient;
+import fuzs.puzzleslib.common.api.client.core.v1.ClientModConstructor;
+import fuzs.slotcycler.common.SlotCycler;
+import fuzs.slotcycler.common.client.SlotCyclerClient;
 import net.fabricmc.api.ClientModInitializer;
 
 public class SlotCyclerFabricClient implements ClientModInitializer {

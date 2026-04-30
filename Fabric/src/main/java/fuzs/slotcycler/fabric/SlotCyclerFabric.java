@@ -1,7 +1,7 @@
 package fuzs.slotcycler.fabric;
 
-import fuzs.puzzleslib.api.core.v1.ModConstructor;
-import fuzs.slotcycler.SlotCycler;
+import fuzs.puzzleslib.common.api.core.v1.ModConstructor;
+import fuzs.slotcycler.common.SlotCycler;
 import net.fabricmc.api.ModInitializer;
 
 public class SlotCyclerFabric implements ModInitializer {

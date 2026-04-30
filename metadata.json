@@ -1,9 +1,10 @@
 {
+    "minecraft": "26.1.2",
     "mod": {
         "id": "slotcycler",
         "group": "fuzs.slotcycler",
         "name": "Slot Cycler",
-        "version": "21.11.0",
+        "version": "26.1.0",
         "authors": [
             "Fuzs"
         ],
@@ -44,13 +45,13 @@
     ],
     "links": [
         {
-            "name": "github",
-            "slug": "slotcycler"
-        },
-        {
             "name": "curseforge",
             "slug": "slot-cycler",
             "id": "682569"
+        },
+        {
+            "name": "github",
+            "slug": "slot-cycler"
         },
         {
             "name": "modrinth",

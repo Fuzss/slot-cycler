@@ -1,10 +1,10 @@
-package fuzs.slotcycler.client;
+package fuzs.slotcycler.common.client;
 
-import fuzs.hotbarslotcycling.api.v1.client.HotbarCyclingProvider;
-import fuzs.hotbarslotcycling.api.v1.client.SlotCyclingProvider;
-import fuzs.puzzleslib.api.client.core.v1.ClientModConstructor;
-import fuzs.puzzleslib.api.config.v3.ConfigHolder;
-import fuzs.slotcycler.SlotCycler;
+import fuzs.hotbarslotcycling.common.api.v1.client.HotbarCyclingProvider;
+import fuzs.hotbarslotcycling.common.api.v1.client.SlotCyclingProvider;
+import fuzs.puzzleslib.common.api.client.core.v1.ClientModConstructor;
+import fuzs.puzzleslib.common.api.config.v3.ConfigHolder;
+import fuzs.slotcycler.common.SlotCycler;
 import net.minecraft.world.entity.player.Player;
 
 public class SlotCyclerClient implements ClientModConstructor {
