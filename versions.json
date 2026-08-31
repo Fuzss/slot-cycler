@@ -1,9 +1,16 @@
 {
   "branches": {
-    "1.21.11": "archived",
-    "1.21.1": "maintained",
     "1.20.1": "fixes",
+    "1.21.1": "maintained",
+    "1.21.11": "archived",
     "26.1.x": "maintained",
     "26.2.x": "primary"
+  },
+  "properties": {
+    "distributions.curseforge.id": "682569",
+    "distributions.curseforge.slug": "slot-cycler",
+    "distributions.github.slug": "slot-cycler",
+    "distributions.modrinth.id": "3kl8Lmm9",
+    "distributions.modrinth.slug": "slot-cycler"
   }
 }
